@@ -3,7 +3,8 @@
 ShiftSync is a modern workforce scheduling web application built using React and Vite. It enables managers to efficiently create, manage, and monitor employee shifts with an intuitive and interactive interface.
 
 ---
-
+ ## *LIVE DEMO  - https://shift-sync-iota.vercel.app/
+     
 ## 🚀 Features
 
 * 📅 Create and manage weekly employee shifts
